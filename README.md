@@ -1,5 +1,5 @@
-# Assignment-2C-IMDB-Movie-Review-Sentiment-Analysis
-# 🎬 IMDB Movie Review Sentiment Analysis
+# Assignment-2C-Sentiment-Analysis
+# 🎬 Sentiment Analysis
 
 A Machine Learning project that predicts whether a movie review is **Positive 😊** or **Negative 😡** using **Natural Language Processing (NLP)** and **Logistic Regression**.
 
